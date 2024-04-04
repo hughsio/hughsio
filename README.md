@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **GenAI for Beginners**
 
-- 👨‍💻 All of my projects are available at [www.hughjsmith.com](www.hughjsmith.com)
+- 👨‍💻 All of my projects are available at [https://www.hughjsmith.com](https://www.hughjsmith.com)
 
 - 💬 Ask me about **OpenAI and Copilot**
 
 - 📫 How to reach me **hugh@hughjsmith.com**
 
-- 📄 Know about my experiences [www.hughj.dev](www.hughj.dev)
+- 📄 Know about my experiences [https://www.hughj.dev](https://www.hughj.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

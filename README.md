@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hughjsmith.com](hughjsmith.com)
 
-- 💬 Ask me about **OpenAI and Copilot**
+- 💬 Ask me about **Building custom Copilots in Copilot Studio**
 
 - 📫 How to reach me **hugh@hughjsmith.com**
 

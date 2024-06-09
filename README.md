@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **GenAI for Beginners**
 
-- 👨‍💻 All of my projects are available at [https://hughjsmith.com](hughjsmith.com)
+- 👨‍💻 All of my projects are available at [https://github.com/hughsio](github.com/hughsio)
 
 - 💬 Ask me about **Building custom Copilots in Copilot Studio**
-
-- 📫 How to reach me **hugh@hughjsmith.com**
 
 - 📄 Know about my experiences [https://hughj.dev](https://hughj.dev)
 

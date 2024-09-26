@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugh</h1>
 <h3 align="center">Information Technology Student at The University of The District of Columbia.</h3>
 
-- 🔭 I’m currently working on [VibeCheck](https://github.com/hughsio/VibeCheck)
+- 🔭 I’m currently working on [Retrieval Augmented Generation](https://github.com/hughsio/RAG)
 
 - 🌱 I’m currently learning **GenAI for Beginners**
 

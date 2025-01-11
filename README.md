@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GenAI for Beginners**
 
-- 👨‍💻 All of my projects are available at [https://code.hughj.dev](code.hughj.dev)
-
 - 💬 Ask me about **Building custom Copilots in Copilot Studio**
 
 <h3 align="left">Connect with me:</h3>

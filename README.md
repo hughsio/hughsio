@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugh</h1>
 <h3 align="center">Project Management Support</h3>
 
-- 🔭 I’m currently working on Self-Hosting [nocodn](!https://github.com/nocodb) on a Raspberry-Pi
+- 🔭 I’m currently working on Self-Hosting [nocodb](!https://github.com/nocodb) on a Raspberry-Pi
 
 - 🌱 I’m currently learning **GenAI for Beginners**
 

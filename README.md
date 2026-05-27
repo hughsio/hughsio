@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hugh</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on Self-Hosting [nocodb](!https://github.com/nocodb) on a Raspberry-Pi
+# Hi, I'm Hugh S 👋
 
-- 🌱 I’m currently learning **GenAI for Beginners**
+**Open Source Hobbiest**
 
-- 💬 Ask me about **Building custom Copilots in Copilot Studio**
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40hughsio-181717.svg?logo=github&variant=branded&size=sm&theme=zinc)](https://github.com/hughsio) [![X Follow](https://www.shieldcn.dev/x/follow/hughj_io.svg?variant=branded&size=sm&theme=zinc)](https://x.com/hughj_io) [![Website](https://www.shieldcn.dev/badge/Website-links.hughj.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&theme=zinc)](https://links.hughj.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40hughio-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=zinc)](https://linkedin.com/in/hughio)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/hugh_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugh_io" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hughio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugh.smith" height="30" width="40" /></a>
-</p>
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/hughsio.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/hughsio.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-47-2563eb.svg?logo=github&variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Washington%2C_DC-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=zinc)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/668a22a1501413692bb46858?variant=dark)](https://roadmap.sh)
+## 🛠️ Skills & Technologies
+
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm&theme=zinc) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&theme=zinc) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm&theme=zinc) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm&theme=zinc) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm&theme=zinc) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm&theme=zinc) ![Zustand](https://www.shieldcn.dev/badge/-Zustand-FFB800.svg?logo=zustand&variant=branded&size=sm&theme=zinc) ![Cloudflare Workers](https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded&size=sm&theme=zinc) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm&theme=zinc) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm&theme=zinc) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm&theme=zinc) ![esbuild](https://www.shieldcn.dev/badge/-esbuild-FFCF00.svg?logo=esbuild&variant=branded&size=sm&theme=zinc)
+
+## 📦 Top Repositories
+
+[![events ⭐ 2](https://www.shieldcn.dev/github/stars/hughsio/events.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/events) [![underleaf ⭐ 1](https://www.shieldcn.dev/github/stars/hughsio/underleaf.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/underleaf) [![VibeCheck ⭐ 1](https://www.shieldcn.dev/github/stars/hughsio/VibeCheck.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/VibeCheck)
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>

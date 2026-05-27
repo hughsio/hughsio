@@ -17,7 +17,3 @@
 ## 📦 Top Repositories
 
 [![events ⭐ 2](https://www.shieldcn.dev/github/stars/hughsio/events.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/events) [![underleaf ⭐ 1](https://www.shieldcn.dev/github/stars/hughsio/underleaf.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/underleaf) [![VibeCheck ⭐ 1](https://www.shieldcn.dev/github/stars/hughsio/VibeCheck.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/hughsio/VibeCheck)
-
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>

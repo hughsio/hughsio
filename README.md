@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hugh S 👋
+# Hi, I'm Hugh 👋
 
 **Open Source Hobbiest**
 
